@@ -1,7 +1,9 @@
 <div align="center">
-![Separateur](images/light/logo.png)
+  <img src="images/light/logo.png" width="150">
+  <h1>Salut ! Je suis Alexis, aka Prof Citron !</h1>
 </div>
 
+
 <div align="center">
-![Separateur](images/light/motif.png)
+  <img src="images/light/motif.png" width="100%">
 </div>
