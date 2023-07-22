@@ -4,7 +4,7 @@
   ---
 
   # Salut ! Je suis Alexis, aka Prof Citron !
-J'enseigne le développement web aux étudiant·es de [l'Insitut de l'internet et du multimédia](https://iim.fr)
+J'enseigne le développement web aux étudiant·es de [l'Insitut de l'Internet et du Multimédia](https://iim.fr)
 </div>
 
 
