@@ -4,7 +4,7 @@
   ---
 
   # Salut ! Je suis Alexis, aka Prof Citron !
-J'enseigne le développement web aux étudiant·es de [l'Insitut de l'Internet et du Multimédia](https://iim.fr)
+Chef de projet digital | Développeur open source | Expert en Moodle et WordPress pour l'éducation
 </div>
 
 
@@ -12,52 +12,18 @@ J'enseigne le développement web aux étudiant·es de [l'Insitut de l'Internet e
   <img src="images/light/motif.png" width="100%">
 </div>
 
-## J'étais développeur PHP... (2016-2019)
-<div style="display:flex; gap: 28px; flex-wrap:wrap; margin: 16px 0;">
-<img src='images/icons/php-plain.svg' width="40px">
-<img src='images/icons/mysql-plain.svg' width="40px">
-<img src='images/icons/cakephp-plain.svg' width="40px">
-<img src='images/icons/laravel-plain.svg' width="40px">
-<img src='images/icons/wordpress-plain.svg' width="40px" >
-<img src='images/icons/woocommerce-plain.svg' width="40px">
-</div>
+## 🌟 Ce que je fais
+- Développement de plugins et thèmes Moodle : J'aide à rendre les plateformes éducatives plus efficaces et intuitives.
+- Plugins et thèmes WordPress : J'améliore les sites web éducatifs avec des outils personnalisés et adaptés.
+- Open Source : Tous mes projets sont disponibles en open source pour aider la communauté éducative à évoluer.
 
-## ...Avant de tomber amoureux du frontend (2020+)
+## 🚀 Projets en développement
 
-<div style="display:flex; gap: 28px; flex-wrap:wrap;margin: 16px 0;">
-<img src='images/icons/html5-plain.svg' width="40px">
-<img src='images/icons/css3-plain.svg' width="40px">
-<img src='images/icons/javascript-original.svg' width="40px">
-<img src='images/icons/less-plain-wordmark.svg' width="40px">
-<img src='images/icons/sass-original.svg' width="40px">
-<img src='images/icons/gulp-plain.svg' width="40px">
-<img src='images/icons/bootstrap-plain.svg' width="40px">
-<img src='images/icons/tailwindcss-plain.svg' width="40px">
-</div>
 
-## En cours d'apprentissage
-<div style="display:flex; gap: 28px; flex-wrap:wrap;margin: 16px 0;">
-<img src='images/icons/vuejs-original.svg' width="40px">
-<img src='images/icons/nodejs-plain.svg' width="40px">
-</div>
 
-## Mes objectifs pour 2023
-
-<div style="display:flex; gap: 28px; flex-wrap:wrap;margin: 16px 0;">
-<img src='images/icons/typescript-plain.svg' width="40px">
-<img src='images/icons/socketio-original.svg' width="40px"style="background:#fff;" >
-<img src='images/icons/react-original.svg' width="40px">
-<img src='images/icons/threejs-original.svg' style="background:#fff;" width="40px">
-
-</div>
-
-## Ce que tu ne veux pas savoir de moi
-
-- J'ai menti, je continue à pratiquer et à aimer wordpress
-- J'aime l'adrénaline des mises en prod ou des correctifs via FTP <img src="images/icons/filezilla-plain.svg" width='20px' style="background:#fff;">
-- Je ne suis pas un développeur grotte, je me couche à 23h
+## 🎯 Mon objectif
+Rendre l'éducation plus accessible à travers des solutions numériques innovantes. Si vous partagez cette vision, collaborons ! N'hésitez pas à contribuer ou à me contacter.
 
 ---
-*Icones par [Devicons](https://github.com/devicons/devicon)*
 
-*Charte graphique par [Sophia E.](https://sophiaestevao.fr/)*
+*Charte graphique par [Sophia Estevao.](https://sophiaestevao.fr/)*
